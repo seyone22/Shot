@@ -18,7 +18,7 @@
    ```bash
    git clone https://github.com/yourusername/shot.git
    cd shot
-````
+   ```
 
 2. Open in Android Studio and build the project.
 3. Deploy to your Wear OS device or emulator.
